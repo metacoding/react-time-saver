@@ -10,8 +10,7 @@ The original project works well with Yarn but I use to use npm instead. So I rec
 
 If you see any issue, I appreciate if you create an issue with steps to reproduce. So that I can check and fix it if possible ASAP.
 ## Demo
-Please check one of these two URLs:
-* https://react-time-saver.web.app/
+The demo is accessible at:
 * https://react-time-saver.firebaseapp.com/ 
 ## Libraries Used
 * React Router 5 
