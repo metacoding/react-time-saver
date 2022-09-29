@@ -18,7 +18,7 @@
     "react-router-dom": "^5.0.0",
     "react-router-redux": "^5.0.0-alpha.9",
     "react-scripts": "^3.0.1",
-    "recharts": "^1.6.2",
+    "recharts": "^2.1.14",
     "redux": "^4.0.1",
     "redux-logger": "^3.0.6",
     "redux-pack": "^0.1.5",
